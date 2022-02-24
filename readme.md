@@ -1,24 +1,14 @@
-# 官网页面
+## 车管家官网页面
+访问地址：http://haochego.com
 
-抬头
+## 关于车管家
+专门为二手车商家定制的记账软件。
 
-banner页
+## 特性说明
+方便快捷。
 
-特性说明
+## 备案号
+蜀ICP备2021021531
 
-产品截图
-
-使用客户
-
-联系方式，版权等等
-
-
-参考网站：
-https://www.youzan.com/intro/landing/weapp/?from_source=google_sem_xcx_10604&gclid=EAIaIQobChMIgoSBnc-B9gIVhCRgCh1A8A9QEAAYASAAEgKAIPD_BwE
-
-
-https://www.logomaker.com.cn/
-
-svg的应用：
-https://blog.csdn.net/hwhsong/article/details/105535820
-
+## 产品开发者
+Jarrett Luo - luojiarui2@163.com
