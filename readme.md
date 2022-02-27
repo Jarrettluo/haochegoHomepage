@@ -1,9 +1,11 @@
 
-<p align="center">好车购商家版应用</p>
-<h2><p align="center">助力二手车商更好服务客户</p></h>
+<h4><p align="center">好车购商家版应用</p></h3>
+<h4><p align="center">助力二手车商更好服务客户</p></h3>
+
+
 
 ## 车管家官网页面
-请使用手机访问：http://haochego.com
+请使用手机访问：[http://haochego.com](http://haochego.com/index/#/loginPage)
 
 ## 关于车管家
 专门为二手车商家定制的记账软件。
